@@ -16,7 +16,7 @@ $ cd dashgo
 $ yarn
 ```
 Possíveis erros na instalação
-- error Incorrect integrity when fetching from the cache
+- error Incorrect integrity when fetching from the cache\
 Basta limpar a cache do yarn:
 ```bash
 $ yarn cache clean
