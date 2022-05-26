@@ -1,12 +1,12 @@
 ## Sobre
 
-Aplicação desenvolvida em Next onde o usuário é capaz de assinar por um conteúdo em texto.
+Sistema de um dashboard administrativo desenvolvido com Chakra UI.
 
 ##  Tecnologias utilizadas
 
   -  Typescript
   -  NextJS
-  -  ReactJS
+  -  Chakra UI
 
 ## Inicialização do projeto
 
@@ -33,3 +33,8 @@ $ yarn dev
 ```bash
 $ http://localhost:3000
 ```
+
+### Rotas:
+http://localhost:3000 \  
+http://localhost:3000/dashboard 
+http://localhost:3000/users
